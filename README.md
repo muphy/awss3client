@@ -10,6 +10,7 @@ spring 을 사용하신다면 spring 이 스캔하는 package 밑에 두시면 �
 #의존성
 spring3 이상의 버전이 클래스패스에 잡혀있다는 가정하에
 
+```
 <dependency>
 	<groupId>org.apache.commons</groupId>
 	<artifactId>commons-io</artifactId>
@@ -20,4 +21,5 @@ spring3 이상의 버전이 클래스패스에 잡혀있다는 가정하에
 	<artifactId>aws-java-sdk</artifactId>
 	<version>1.8.2</version>
 </dependency>
+```
 
